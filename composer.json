@@ -1,0 +1,12 @@
+{
+    "name": "alibi/simplemysqlclass",
+    "description": "dead simple mysqli class for demonstration",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alibi Ghazi",
+            "email": "ghazi.alibi@outlook.fr"
+        }
+    ],
+    "require": {}
+}
